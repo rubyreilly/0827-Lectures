@@ -1,2 +1,2 @@
 1. zero?
-2. 
+2. Because we haven't learned all the steps yet...
