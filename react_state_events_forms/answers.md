@@ -4,3 +4,4 @@
 4. Use state when you're going to want to reassign properties of a component
 5. Use constructor if you want more logic than state assignment to happen before anything else
 6. Pass props when a component is called in parent
+7. Callback methods as props that call setState?
